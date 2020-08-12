@@ -2536,25 +2536,25 @@ body {
       margin-bottom: 0;
       margin-top: 0;
       font-family: 'Belleza', sans-serif;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
     #homepage .title img {
       width: 60%;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
   #homepage .image {
     text-align: center;
     margin-top: 2%;
     margin-bottom: 4%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #homepage .image img {
       width: 50%;
       box-shadow: 0px 0px 46px 0px rgba(0, 0, 0, 0.75); }
   #homepage #feature {
     width: 100%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out;
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out;
     color: #004C97;
     text-align: center; }
     #homepage #feature h1 {
@@ -2771,8 +2771,8 @@ body {
     margin-left: 0;
     border: 10px solid #F0F0F0;
     box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box1 .story h1 {
     text-align: center;
     font-size: 40px;
@@ -2785,8 +2785,8 @@ body {
     margin: 5%;
     margin-top: 2%;
     font-family: 'Lato', sans-serif;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box1 .story .paragraph h2 {
       font-style: italic;
       font-family: 'Lato', sans-serif;
@@ -2830,15 +2830,15 @@ body {
       #box1 .story #feature .boxStories h1 {
         font-family: 'Belleza', sans-serif;
         font-size: 18px;
-        -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-        animation: newspaper 1 1s 0s both ease-in-out;
+        -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+        animation: fadeInUp 1 1s 0s both ease-in-out;
         text-shadow: none; }
       #box1 .story #feature .boxStories img {
         width: 100%;
         border: 10px solid #F0F0F0;
         box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-        -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-        animation: newspaper 1 1s 0s both ease-in-out; }
+        -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+        animation: fadeInUp 1 1s 0s both ease-in-out; }
 
 #box2 {
   max-width: 68em;
@@ -2876,8 +2876,8 @@ body {
       margin-left: 1%;
       border: 10px solid #F0F0F0;
       box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box2 .story .image {
     text-align: center; }
     #box2 .story .image img {
@@ -2887,8 +2887,8 @@ body {
       margin-left: 0;
       border: 10px solid #F0F0F0;
       box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box2 .story h1 {
     text-align: center;
     font-size: 45px;
@@ -2906,8 +2906,8 @@ body {
     margin: 5%;
     margin-top: 2%;
     font-family: 'Lato', sans-serif;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box2 .story .paragraph h2 {
       font-style: italic;
       font-family: 'Lato', sans-serif;
@@ -2927,8 +2927,8 @@ body {
         margin-left: 0;
         border: 10px solid #F0F0F0;
         box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-        -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-        animation: newspaper 1 1s 0s both ease-in-out; }
+        -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+        animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box2 .story .paragraph .insert {
       float: left;
       display: block;
@@ -2963,8 +2963,8 @@ body {
     width: 70%;
     margin-top: 15%;
     margin-left: 8.5298%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box3 .story .image {
     float: left;
     display: block;
@@ -2981,8 +2981,8 @@ body {
       border: 10px solid #F0F0F0;
       float: left;
       box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box3 .story h1 {
     text-align: center;
     font-size: 40px;
@@ -2998,8 +2998,8 @@ body {
     margin: 5%;
     margin-top: 2%;
     font-family: 'Lato', sans-serif;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box3 .story .paragraph .image {
       text-align: center;
       float: left;
@@ -3015,8 +3015,8 @@ body {
         border: 10px solid #F0F0F0;
         float: left;
         box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-        -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-        animation: newspaper 1 1s 0s both ease-in-out; }
+        -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+        animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box3 .story .paragraph h2 {
       font-style: italic;
       font-family: 'Lato', sans-serif;
@@ -3086,8 +3086,8 @@ body {
     padding-left: 4%;
     padding-right: 4%;
     padding-bottom: 2%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box4 .story .boxStories {
     width: 50%;
     padding: 2%;
@@ -3097,15 +3097,15 @@ body {
     #box4 .story .boxStories h1 {
       font-family: 'Belleza', sans-serif;
       font-size: 24px;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out;
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out;
       text-shadow: none; }
     #box4 .story .boxStories img {
       width: 100%;
       border: 10px solid #F0F0F0;
       box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
 
 #box5 {
   max-width: 68em;
@@ -3125,8 +3125,8 @@ body {
     width: 70%;
     margin-top: 15%;
     margin-left: 8.5298%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box5 .story .image {
     text-align: center;
     width: 100%; }
@@ -3138,8 +3138,8 @@ body {
       margin-right: 0;
       border: 10px solid #F0F0F0;
       box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out; }
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out; }
   #box5 .story h1 {
     text-align: center;
     font-size: 40px;
@@ -3151,8 +3151,8 @@ body {
     margin: 5%;
     margin-top: 2%;
     font-family: 'Lato', sans-serif;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #box5 .story .paragraph .image {
       text-align: center;
       float: left;
@@ -3168,9 +3168,9 @@ body {
         border: 10px solid #F0F0F0;
         float: left;
         box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75);
-        -webkit-animation: newspaper 1 1s 0s both ease-in-out;
+        -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
         animation: newspaper 1 1s 0s both ease-in-out; }
-    #box5 .story .paragraph h2 {
+    #box5 .story .fadeInUp h2 {
       font-style: italic;
       font-family: 'Lato', sans-serif;
       font-size: 15px;
@@ -3231,8 +3231,8 @@ body {
     width: 30%;
     border: none;
     margin-top: 2%;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out;
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out;
     box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.75); }
   #aboutUs h1 {
     text-align: center;
@@ -3245,15 +3245,15 @@ body {
     margin: 5%;
     margin-top: 2%;
     font-family: 'Lato', sans-serif;
-    -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-    animation: newspaper 1 1s 0s both ease-in-out; }
+    -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+    animation: fadeInUp 1 1s 0s both ease-in-out; }
     #aboutUs .paragraph .name {
       float: left;
       display: block;
       margin-right: 2.35765%;
       width: 23.23176%;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out;
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out;
       text-align: center;
       float: left;
       margin: 0;
@@ -3268,8 +3268,8 @@ body {
       display: block;
       margin-right: 2.35765%;
       width: 74.41059%;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out;
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out;
       margin-top: 1%;
       padding-bottom: 4%;
       float: left;
@@ -3282,8 +3282,8 @@ body {
       display: block;
       margin-right: 2.35765%;
       width: 74.41059%;
-      -webkit-animation: newspaper 1 1s 0s both ease-in-out;
-      animation: newspaper 1 1s 0s both ease-in-out;
+      -webkit-animation: fadeInUp 1 1s 0s both ease-in-out;
+      animation: fadeInUp 1 1s 0s both ease-in-out;
       margin-top: 1%;
       padding-bottom: 8%;
       float: left;
